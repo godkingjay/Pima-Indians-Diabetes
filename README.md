@@ -1,1 +1,1 @@
-# Pima-Indian-Diabetes
+# Pima-Indians-Diabetes
